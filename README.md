@@ -97,7 +97,7 @@ Run all cells (about 2 minutes). `random_state = 42` is used throughout.
 
 - **Dataset:** an employee attrition dataset (74,610 records, 24 attributes) supplied through upGrad coursework. A matching public version is available on Kaggle. It is included for educational, non-commercial use.
 - This repository follows the upGrad *Predicting Employee Retention* assignment structure. The code, analysis, extensions and report are my own.
-- Completed as part of the MS in Artificial Intelligence (Liverpool John Moores University, delivered via upGrad).
+- Coursework completed during my MS in Artificial Intelligence (Liverpool John Moores University, delivered via upGrad); published to GitHub in November 2026.
 
 ## Licence
 
