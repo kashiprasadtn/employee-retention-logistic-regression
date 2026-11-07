@@ -1,0 +1,7 @@
+,Train,Validation
+Accuracy,0.74,0.734
+Sensitivity,0.735,0.732
+Specificity,0.745,0.735
+Precision,0.722,0.714
+F1,0.729,0.723
+ROC-AUC,0.826,0.825

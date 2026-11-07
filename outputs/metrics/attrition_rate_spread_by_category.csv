@@ -1,0 +1,16 @@
+Feature,Lowest-rate level,Highest-rate level,Spread (pts)
+Job Level,Senior (20%),Entry (63%),43.2
+Marital Status,Married (36%),Single (67%),30.5
+Remote Work,Yes (25%),No (53%),28.2
+Education Level,PhD (24%),Associate Degree (49%),25.5
+Work-Life Balance,Excellent (36%),Poor (60%),23.9
+Company Reputation,Good (43%),Poor (56%),12.8
+Performance Rating,Average (46%),Low (57%),11.3
+Gender,Male (43%),Female (53%),9.8
+Job Satisfaction,High (45%),Very High (53%),8.0
+Overtime,No (46%),Yes (51%),5.9
+Company Size,Medium (46%),Small (50%),3.2
+Innovation Opportunities,Yes (45%),No (48%),3.0
+Leadership Opportunities,Yes (45%),No (48%),2.5
+Job Role,Finance (46%),Education (49%),2.2
+Employee Recognition,Very High (46%),Low (48%),1.4
